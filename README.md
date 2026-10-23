@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linksshort.ru/GEVAbksF"><picture>
+  <a href="https://t.me/giont_vpn_bot"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/button-dark.svg">
     <img alt="Открыть в Telegram" src="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/button-light.svg">
   </picture></a>
@@ -90,7 +90,7 @@ GiontVPN работает на Xray-core со связкой VLESS + Reality + V
 <br>
 
 <p align="center">
-  <a href="https://linksshort.ru/GEVAbksF"><img alt="Попробуйте GiontVPN — открыть в Telegram" src="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/hero.svg" width="100%"></a>
+  <a href="https://t.me/giont_vpn_bot"><img alt="Попробуйте GiontVPN — открыть в Telegram" src="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/hero.svg" width="100%"></a>
 </p>
 
 <details>
