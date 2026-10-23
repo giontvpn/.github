@@ -1,97 +1,102 @@
-# GiontVPN
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/banner-dark.png">
+  <img alt="GiontVPN — VPN для YouTube, ChatGPT, X, Instagram, TikTok, Discord и Facebook" src="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/banner-light.png" width="100%">
+</picture>
 
-[![Перейти в Telegram](https://img.shields.io/badge/Перейти_в_Telegram-FF8C00?style=for-the-badge&logo=telegram)](https://linksshort.ru/GEVAbksF)
+<h3 align="center">Быстрый и заботливый VPN. Для всех ваших устройств.</h3>
 
-**GiontVPN** — удобный и безопасный Telegram-бот для быстрого оформления стабильного VPN-доступа без лишних действий.  
-Всем пользователям доступен **пробный период 3 дня** (без ограничений по трафику) — **активируется один раз на одного пользователя**, чтобы вы спокойно протестировали сервис в реальных задачах.
+<p align="center">
+  Подписка, оплата и подключение — в мини-приложении GiontVPN: откройте его в Telegram или в браузере.<br>
+  Начните с пробного периода и подключитесь за пару минут.
+</p>
 
----
+<p align="center">
+  <a href="https://linksshort.ru/GEVAbksF"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/button-dark.svg">
+    <img alt="Открыть в Telegram" src="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/button-light.svg">
+  </picture></a>
+  <a href="https://webapp.giont.ru"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/button-app-dark.svg">
+    <img alt="Открыть мини-приложение" src="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/button-app-light.svg">
+  </picture></a>
+</p>
 
-## ✨ Возможности GiontVPN
-- Запуск и управление подпиской прямо в Telegram  
-- Пробный период **3 дня** без лимитов трафика
-- Стабильная работа для видео, соцсетей, мессенджеров и рабочих сервисов, видеозвонков
-- Мгновенная выдача **VLESS-конфига** после активации  
-- Поддержка **Android / iOS / Windows / macOS / Linux**  
-- Можно подключить до **5 устройств** на одну подписку  
-- Помогаем с установкой и можем подсказать настройку на **роутере**  
-- Рекомендуемые клиенты: **v2rayTun** или **HAPP**  
-- Серверы в странах с **европейской юрисдикцией**  
-- Никаких ограничений по скорости и трафику — только комфортное использование
+## Что внутри
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/features-dark.svg">
+  <img alt="Все ваши устройства: Android, iOS, Windows, macOS и Linux, до 5 устройств на одной подписке. Вход за минуту: по почте, через Яндекс ID, Google или Telegram. Один ключ — и вы онлайн: вставьте ключ в приложение Happ. Без лимитов: трафик и скорость не ограничены. Оплата как удобно: СБП, SberPay, банковские карты и ЮMoney, есть автопродление. Друзьям — с выгодой: процент с каждой оплаты друга без ограничения по времени." src="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/features-light.svg" width="100%">
+</picture>
 
-## 💳 Тарифы и оплата
-**Подписки:** 1 / 3 / 6 / 12 месяцев  
-- 1 месяц — **249 ₽**  
-- 3 месяца — **709 ₽**  
-- 6 месяцев — **1349 ₽**  
-- 12 месяцев — **2539 ₽**
+## Как подключиться
 
-**Оплата:** СБП, SberPay, банковские карты, Ю-кошелёк  
-**Автопродление:** доступно (чтобы доступ не обрывался в самый неподходящий момент)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/steps-dark.svg">
+  <img alt="1. Откройте GiontVPN в Telegram или в браузере. 2. Войдите и выберите тариф или пробный период. 3. Установите Happ и вставьте ключ из приложения. 4. Готово — VPN подключён." src="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/steps-light.svg" width="100%">
+</picture>
 
----
+## Тарифы и оплата
 
-## 🚀 Как начать пользоваться
-1. Нажмите кнопку **«Перейти в Telegram»**.  
-2. Запустите бот GiontVPN и активируйте **пробный период 3 дня** (если ещё не использовали).  
-3. Получите **VLESS-конфиг** для своего устройства.  
-4. Импортируйте конфиг в **v2rayTun** или **HAPP** — и подключайтесь.
+Подписка на 1, 3, 6 или 12 месяцев — чем дольше срок, тем выгоднее месяц. Актуальные цены всегда в приложении.
 
----
+Оплатить можно через СБП, SberPay, банковской картой или ЮMoney. Автопродление продлит подписку само, чтобы доступ не прервался в неподходящий момент.
 
-## 💎 Почему это удобно (и почему работает стабильно)
-- **Фокус на бесперебойности:** сервис рассчитан на повседневное использование, а не «по настроению»  
-- **Без лишней бюрократии:** оплата, подписка, конфиги — всё в одном месте, в Telegram  
-- **Совместимость для реальной жизни:** телефон + ноутбук + рабочий ПК — без танцев с настройками  
-- **Подходит для разных сценариев:** видео/стриминг, соцсети, мессенджеры, игры, удалённая работа, поездки  
-- **Не “бесплатный VPN с сюрпризами”:** здесь вы получаете предсказуемое качество и поддержку
+## Как это работает
 
----
+GiontVPN работает на Xray-core со связкой VLESS + Reality + Vision: быстрое подключение, стабильная работа и современная защита соединения. Собирать конфигурацию вручную не нужно — приложение выдаст готовый ключ. Серверы находятся в странах с европейской юрисдикцией.
 
-## 🔐 Техническая часть (коротко и по делу)
-GiontVPN использует связку **VLESS + Reality + Vision** и выдаёт готовый **VLESS-конфиг**.  
-Практически это означает: быстрое подключение, стабильная работа и современный подход к защищённому соединению — без необходимости вручную собирать конфигурации.
+## Поддержка
 
----
+Поможем выбрать клиент и подключить устройство, в том числе роутер. Напишите в бот поддержки — ссылка есть в приложении.
 
-## 🧩 Поддержка
-Если нужно — подскажем, какой клиент выбрать и как корректно подключить устройство (включая сложные кейсы, например роутер).  
-Поддержка доступна через отдельного Telegram-бота.
+## Частые вопросы
 
----
+<details>
+<summary><b>Для каких сервисов подходит GiontVPN?</b></summary>
+<br>
+Для YouTube, Instagram, WhatsApp, Discord, ChatGPT и других нейросетей, видеоплатформ и мессенджеров. Подключение рассчитано на ежедневную работу, звонки и игры.
+</details>
 
-## 🔗 Быстрая ссылка на GiontVPN
-[![Перейти в Telegram](https://img.shields.io/badge/Перейти_в_Telegram-FF8C00?style=for-the-badge&logo=telegram)](https://linksshort.ru/GEVAbksF)
+<details>
+<summary><b>Есть ли ограничения по скорости или трафику?</b></summary>
+<br>
+Нет, скорость и трафик не ограничены.
+</details>
 
----
+<details>
+<summary><b>Сколько устройств можно подключить?</b></summary>
+<br>
+До 5 устройств на одну подписку: телефон, ноутбук, рабочий компьютер — в любом сочетании.
+</details>
 
-## ❓ FAQ (частые вопросы)
+<details>
+<summary><b>Есть ли пробный период?</b></summary>
+<br>
+Да, для новых пользователей — один раз на аккаунт. Срок и условия показаны в приложении.
+</details>
 
-**Можно ли использовать VPN для YouTube, Instagram, WhatsApp, Discord и нейросетей?**  
-Да. GiontVPN подходит для популярных сервисов, видеоплатформ и мессенджеров — подключение рассчитано на стабильную ежедневную работу.
+<details>
+<summary><b>Какое приложение нужно для подключения?</b></summary>
+<br>
+Рекомендуем Happ: скопируйте ключ из GiontVPN и вставьте его в Happ. Ключ подойдёт и для v2rayTun.
+</details>
 
-**Есть ли ограничение по скорости или трафику?**  
-Нет, лимитов по трафику и скорости нет.
+<details>
+<summary><b>Как работает реферальная программа?</b></summary>
+<br>
+Приглашайте друзей по своей ссылке и получайте процент с каждой их оплаты — без ограничения по времени. Чем больше друзей, тем выше процент. Заработанное можно потратить на подписку или вывести на карту.
+</details>
 
-**Сколько устройств можно подключить?**  
-До **5 устройств** на одну подписку.
+<br>
 
-**Пробный период точно без промокода?**  
-Да, пробник **3 дня** доступен всем пользователям, но **один раз на пользователя**.
+<p align="center">
+  <a href="https://linksshort.ru/GEVAbksF"><img alt="Попробуйте GiontVPN — открыть в Telegram" src="https://raw.githubusercontent.com/giontvpn/.github/main/profile/assets/hero.svg" width="100%"></a>
+</p>
 
-**Какие приложения лучше использовать?**  
-Рекомендуем **v2rayTun** или **HAPP** — это удобные клиенты для импорта VLESS-конфига.
+<details>
+<summary><sub>Ключевые слова</sub></summary>
+<br>
+<sub>vpn, впн, купить VPN, купить впн, лучший vpn, топ vpn, vpn который работает, стабильный vpn, vpn без сбоев, vpn без ограничений, vpn без лимита трафика, быстрый vpn, надежный vpn, безопасный vpn, vpn для YouTube, впн для ютуба, vpn для Instagram, vpn для WhatsApp, vpn для Telegram, vpn для Discord, vpn для ChatGPT, vpn для нейросетей, vpn для работы, vpn для путешествий, vpn для ПК, vpn для Windows, vpn для macOS, vpn для Linux, vpn для Android, vpn для iPhone, мобильный vpn, vpn бот телеграм, vpn в Telegram, telegram vpn bot, vpn мини-приложение, VLESS, VLESS Reality, Reality, Vision, Xray, V2Ray, Happ, v2rayTun, конфиг vless, подключение vpn, подписка vpn, пробный период vpn, vpn триал, оплата vpn СБП, SberPay vpn, автопродление vpn, реферальная программа vpn, стабильный доступ, защищённое подключение</sub>
+</details>
 
-**Есть ли автопродление?**  
-Да, автопродление доступно, чтобы доступ не прерывался.
-
----
-
-### 🏷️ SEO Keywords
-vpn, впн, VPN купить, купить VPN, купить впн, лучший vpn, топ vpn, vpn который работает, стабильный vpn, vpn без сбоев, vpn без ограничений, vpn без лимита трафика, быстрый vpn, надежный vpn, безопасный vpn, vpn для YouTube, впн для ютуба, vpn для Instagram, vpn для WhatsApp, vpn для Telegram, vpn для Discord, vpn для нейросетей, vpn для работы, vpn для путешествий, vpn для ПК, vpn для Windows, vpn для macOS, vpn для Linux, vpn для Android, vpn для iPhone, мобильный vpn, vpn бот телеграм, vpn в Telegram, vpn tg bot, telegram vpn bot, VLESS, VLESS Reality, Reality, Vision, v2rayTun, HAPP, V2Ray, Xray, конфиг vless, vless конфигурация, подключение vpn, подписка vpn, пробный период vpn 3 дня, vpn триал, оплата vpn СБП, SberPay vpn, vpn карты, автопродление vpn, стабильный доступ, защищённое подключение, обход ограничений, DPI
-
----
-
-Мы непрерывно дорабатываем техническую часть сервиса, чтобы вы чувствовали себя в безопасности и свободе онлайн. 🤝
+<p align="center"><sub>Мы постоянно дорабатываем GiontVPN, чтобы вам было спокойно онлайн.</sub></p>
